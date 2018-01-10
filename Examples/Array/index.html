@@ -1,0 +1,19 @@
+@{
+string[] members = {"Ilia", "Alex", "Viktor", "Nicholas"};
+int i = Array.IndexOf(members, "Viktor")+1;
+int len = members.Length;
+string x = members[2-1];
+}
+<html>
+<body>
+<h3>My Sons</h3>
+@foreach (var person in members)
+{
+<p>@person</p>
+}
+<p>The number of names in My Sons are @len</p>
+<p>The son at position 2 is @x</p>
+<p>Viktor is now in position @i</p>
+
+</body>
+</html>
