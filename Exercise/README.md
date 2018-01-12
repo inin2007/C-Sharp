@@ -7,4 +7,4 @@ A string called productName equal to TV.
 An integer called productYear equal to 2012.
 A double number called productPrice equal to 279.99.
 
-Answer: 
+Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercise/variables.cs
