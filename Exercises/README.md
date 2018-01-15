@@ -12,3 +12,11 @@ Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercise/variables.cs
 #### 3. Construct a list of the first 5 prime numbers (2, 3, 5, 7, 11) called primeNumbers.
 
 Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercises/lists.cs
+
+#### 4. Create a new dictionary called inventory that holds 3 names of fruits, and the amount they are in stock.
+Here is the inventory specification:
+* 3 of type apple
+* 5 of type orange
+* 2 of type banana
+
+Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercises/dictionaries.cs
