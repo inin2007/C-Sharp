@@ -9,6 +9,6 @@ Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercise/array.cs
 
 Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercise/variables.cs
 
-### 3. Construct a list of the first 5 prime numbers (2, 3, 5, 7, 11) called primeNumbers.
+#### 3. Construct a list of the first 5 prime numbers (2, 3, 5, 7, 11) called primeNumbers.
 
 Answer: 
