@@ -1,6 +1,6 @@
 using System;
 
-public class Tutorial
+public class Array
 {
    public static void Main()
    {
