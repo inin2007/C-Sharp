@@ -34,3 +34,5 @@ Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercises/forLoops.cs
 #### 7. Print X to the console N time using a while loop
 
 Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercises/whileLoops.cs
+
+#### 8. Write a method that divides two numbers (provided as parameters). Tip: you will need to use the modifiers public and static.
