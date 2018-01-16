@@ -25,4 +25,4 @@ Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercises/dictionaries.c
 
 John Doe is 27 years old.
 
-Answer:
+Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercises/strings.cs
