@@ -49,4 +49,4 @@ Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercises/bacisClasses.c
 
 A car: Type = car with NumTires = 4 from Year = 2000 which Runs = true An oldcar: Type = car with NumTires = 4 from Year = 1980 which Runs = false A bike: Type = bike with NumTires = 2 from Year = 2017 which Runs = true
 
-Answer: 
+Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercises/classProperties.cs
