@@ -20,3 +20,9 @@ Here is the inventory specification:
 * 2 of type banana
 
 Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercises/dictionaries.cs
+
+#### 5. Use string formatting to format the variables firstName, lastName and age to form the following sentence into the string sentence:
+
+John Doe is 27 years old.
+
+Answer:
