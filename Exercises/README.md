@@ -44,3 +44,9 @@ Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercises/methods.cs
 #### 9. Make a class car with the properties numTires = 4, year = 2000, and runs = true, and create three instances of it: car1, car2, and car3.
 
 Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercises/bacisClasses.cs
+
+#### 10. Make a class Vehicle with the properties string Type, int NumTires, int Year, and bool Runs, and create:
+
+A car: Type = car with NumTires = 4 from Year = 2000 which Runs = true An oldcar: Type = car with NumTires = 4 from Year = 1980 which Runs = false A bike: Type = bike with NumTires = 2 from Year = 2017 which Runs = true
+
+Answer: 
