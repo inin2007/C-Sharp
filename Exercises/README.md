@@ -30,3 +30,7 @@ Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercises/strings.cs
 #### 6. Print the value of variable X to the screen N number of times
 
 Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercises/forLoops.cs
+
+#### 7. Print X to the console N time using a while loop
+
+Answer:
