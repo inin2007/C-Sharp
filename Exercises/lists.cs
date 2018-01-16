@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-public class Hello
+public class Lists
 {
     public static void Main()
     {
