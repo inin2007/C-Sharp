@@ -33,4 +33,4 @@ Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercises/forLoops.cs
 
 #### 7. Print X to the console N time using a while loop
 
-Answer:
+Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercises/whileLoops.cs
