@@ -40,3 +40,7 @@ Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercises/whileLoops.cs
 #### 8. Write a method that divides two numbers (provided as parameters). Tip: you will need to use the modifiers public and static.
 
 Answer: https://github.com/inin2007/C-Sharp/blob/master/Exercises/methods.cs
+
+#### 9. Make a class car with the properties numTires = 4, year = 2000, and runs = true, and create three instances of it: car1, car2, and car3.
+
+Answer: 
