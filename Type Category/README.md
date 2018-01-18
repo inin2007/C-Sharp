@@ -1,4 +1,4 @@
-| Type category | Implicitly inherits from  |
+|Type category  |Implicitly inherits from   |
 |---------------|---------------------------|
 |class          |Object                     |
 |struct         |ValueType, Object          |
