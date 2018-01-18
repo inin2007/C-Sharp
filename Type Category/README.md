@@ -1,5 +1,5 @@
-### Type category:
-
+| Type category | Implicitly inherits from: |
+|---------------|---------------------------|
 class
 
 ### Implicitly inherits from:
