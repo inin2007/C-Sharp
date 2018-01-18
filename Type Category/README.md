@@ -1,31 +1,7 @@
 | Type category | Implicitly inherits from: |
 |---------------|---------------------------|
-class
+|     class     |Object                     |
+|struct         |ValueType, Object          |
+|enum           |Enum, ValueType, Object    |
+|delegate       | MulticastDelegate, Delegate, Object
 
-### Implicitly inherits from:
-
-Object
-
-### Type category:
-
-struct
-
-### Implicitly inherits from:
-
-ValueType, Object
-
-### Type category:
-
-enum
-
-### Implicitly inherits from:
-
-Enum, ValueType, Object
-
-### Type category:
-
-delegate
-
-### Implicitly inherits from:
-
-MulticastDelegate, Delegate, Object
