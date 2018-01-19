@@ -41,9 +41,9 @@
 |--------------------|-------|
 |**User-defined types of the form**|interface I {...}|
 
-| Array  types        |       |  
-|--------------------|-------|
-|**Single- and multi-dimensional, for example,**|int[]|
+| Array  types        |       |  |
+|--------------------|-------|--|
+|**Single- and multi-dimensional, for example,**|int[]|int[,]|
 
 | Delegate   types        |       |  
 |--------------------|-------|
