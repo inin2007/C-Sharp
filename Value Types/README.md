@@ -76,4 +76,4 @@
 |`double`:|64 bits, range from 5.0 × 10^−324 - 1.7 × 10^308, 15-digit precision|
 ---
 
-![equation](http://www.sciweavers.org/tex2img.php?eq=1.5%20%2A%2010%5E%7B-45%7D%20%20-%203.4%20%2A%2010%5E%7B38%7D%2C%0A&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+![equation](http://www.sciweavers.org/tex2img.php?eq=5.0%20%C3%97%2010%5E%7B-324%7D%20-%201.7%20%C3%97%2010%5E%7B308%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
