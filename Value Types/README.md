@@ -58,3 +58,14 @@
 |`short`:|16 bits, range from -32,768 - 32,767|
 |`int`:|32 bits, range from -2,147,483,648 - 2,147,483,647|
 |`long`:|64 bits, range from –9,223,372,036,854,775,808 to 9,223,372,036,854,775,807|
+
+* Unsigned Integral
+
+|   |       |  
+|--------------------|-------|
+|`byte`:|8 bits, range from 0 - 255|
+|`ushort`:|16 bits, range from 0 - 65,535|
+|`uint`:|32 bits, range from 0 - 4,294,967,295|
+|`ulong`:|64 bits, range from 0 - 18,446,744,073,709,551,615|
+
+---
