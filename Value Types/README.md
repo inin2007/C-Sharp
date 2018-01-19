@@ -48,3 +48,10 @@
 | Delegate   types        |       |  
 |--------------------|-------|
 |**User-defined types of the form**|delegate int D(...)|
+
+---
+* Signed Integral
+
+| `Delegate   types`        |       |  
+|--------------------|-------|
+|`sbyte`|delegate int D(...)|
