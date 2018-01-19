@@ -75,3 +75,5 @@
 |`float`:|[32 bits, range from 1.5 × 10^−45 - 3.4 × 10^38, 7-digit precision]|
 |`double`:|64 bits, range from 5.0 × 10^−324 - 1.7 × 10^308, 15-digit precision|
 ---
+![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
+ :+1: 10  
