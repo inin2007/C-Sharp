@@ -1,6 +1,7 @@
 * Simple Types
 
-|                    |       |       |     |      |
-|--------------------|-------|-------|-----|------|
-|**Signed integral:** | sbyte | short | int | long |
-|**Unsigned integral:**|byte|ushort|uint|ulong|
+                    |       |       |     |      
+--------------------|-------|-------|-----|------
+**Signed integral:** | sbyte | short | int | long 
+**Unsigned integral:**|byte|ushort|uint|ulong
+**Unicode characters:**|char
