@@ -21,9 +21,13 @@
 |--------------------|------|
 |**Struct types**|struct S {...}|
 
+---
+
 |                    |       |     
 |--------------------|------|
 |**Nullable value types**|null|
+
+---
 
 * Reference types
 
@@ -32,3 +36,15 @@
 |**Ultimate base class of all other types:**|object|
 |**Unicode strings:**|string|
 |**User-defined types of the form**|class C {...}|
+
+| Interface types        |       |  
+|--------------------|-------|
+|**User-defined types of the form**|interface I {...}|
+
+| Array  types        |       |  
+|--------------------|-------|
+|**Single- and multi-dimensional, for example,**|int[]|
+
+| Delegate   types        |       |  
+|--------------------|-------|
+|**User-defined types of the form**|delegate int D(...)|
