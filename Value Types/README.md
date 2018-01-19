@@ -72,6 +72,6 @@
 
 |   |       |  
 |--------------------|-------|
-|`float`:|32 bits, range from 1.5 × 10^−45 - 3.4 × 1038, 7-digit precision|
+|`float`:|32 bits, range from 1.5 × 10−45 - 3.4 × 1038, 7-digit precision|
 |`double`:|64 bits, range from 5.0 × 10−324 - 1.7 × 10308, 15-digit precision|
 ---
