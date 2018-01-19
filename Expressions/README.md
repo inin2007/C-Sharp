@@ -29,3 +29,11 @@
 |`--x`:|Pre-decrement|
 |`(T)x`:|Explicitly convert `x` to type `T`|
 |`await x`:|Asynchronously wait for `x` to complete|
+
+* Multiplicative
+
+|||
+|-|-|
+|`x * y`:|Multiplication|
+|`x / y`:|Division |
+|`x % y`:|Remainder |
