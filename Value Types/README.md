@@ -9,10 +9,13 @@
 |**High-precision decimal:**|decimal|
 |**Boolean:**|bool|
 
+---
 
 |                    |       |     
 |--------------------|------|
 |**Enum types**|enum E {...}|
+
+---
 
 |                    |       |     
 |--------------------|------|
