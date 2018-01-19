@@ -10,8 +10,8 @@
 |**Boolean:**|bool|
 
 
-|                    |       |       |     |      |
-|--------------------|-
+|                    |       |     
+|--------------------|------|
 |**Enum types**|enum E {...}|
 |**Struct types**|struct S {...}|
 |**Nullable value types**|null|
