@@ -1,4 +1,4 @@
-** Simple Types
+* Simple Types
 
 |                    |       |       |     |      |
 |--------------------|-------|-------|-----|------|
@@ -8,3 +8,10 @@
 |**IEEE floating point:**|float|double|
 |**High-precision decimal:**|decimal|
 |**Boolean:**|bool|
+
+
+|                    |       |       |     |      |
+|--------------------|-
+|**Enum types**|enum E {...}|
+|**Struct types**|struct S {...}|
+|**Nullable value types**|null|
