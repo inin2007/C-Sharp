@@ -68,4 +68,10 @@
 |`uint`:|32 bits, range from 0 - 4,294,967,295|
 |`ulong`:|64 bits, range from 0 - 18,446,744,073,709,551,615|
 
+* Floating point
+
+|   |       |  
+|--------------------|-------|
+|`float`:|32 bits, range from 1.5 × 10−45 - 3.4 × 1038, 7-digit precision|
+|`double`:|64 bits, range from 5.0 × 10−324 - 1.7 × 10308, 15-digit precision|
 ---
