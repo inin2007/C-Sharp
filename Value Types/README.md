@@ -5,27 +5,27 @@
 |**Signed integral:** | `sbyte` | `short` | `int` | `long` |
 |**Unsigned integral:**|`byte`|`ushort`|`uint`|`ulong`|
 |**Unicode characters:**|`char`|
-|**IEEE floating point:**|`float|double`|
-|**High-precision decimal:**|`decima`l|
+|**IEEE floating point:**|`float`|`double`|
+|**High-precision decimal:**|`decimal`|
 |**Boolean:**|`bool`|
 
 ---
 
 |                    |       |     
 |--------------------|------|
-|**Enum types**|enum E {...}|
+|**Enum types**|`enum E {...}`|
 
 ---
 
 |                    |       |     
 |--------------------|------|
-|**Struct types**|struct S {...}|
+|**Struct types**|`struct S {...}`|
 
 ---
 
 |                    |       |     
 |--------------------|------|
-|**Nullable value types**|null|
+|**Nullable value types**|`null`|
 
 ---
 
@@ -33,21 +33,21 @@
 
 | Class types        |       |  
 |--------------------|-------|
-|**Ultimate base class of all other types:**|object|
-|**Unicode strings:**|string|
-|**User-defined types of the form**|class C {...}|
+|**Ultimate base class of all other types:**|`object`|
+|**Unicode strings:**|`string`|
+|**User-defined types of the form**|`class C {...}`|
 
 | Interface types        |       |  
 |--------------------|-------|
-|**User-defined types of the form**|interface I {...}|
+|**User-defined types of the form**|`interface I {...}`|
 
 | Array  types        |       |  |
 |--------------------|-------|--|
-|**Single- and multi-dimensional, for example,**|int[]|int[,]|
+|**Single- and multi-dimensional, for example,**|`int[]`|`int[,]`|
 
 | Delegate   types        |       |  
 |--------------------|-------|
-|**User-defined types of the form**|delegate int D(...)|
+|**User-defined types of the form**|`delegate int D(...)`|
 
 ---
 * Signed Integral
