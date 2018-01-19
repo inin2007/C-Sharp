@@ -52,6 +52,9 @@
 ---
 * Signed Integral
 
-| `Delegate   types`        |       |  
+|   |       |  
 |--------------------|-------|
-|`sbyte`|delegate int D(...)|
+|`sbyte`:|8 bits, range from -128 - 127|
+|`short`:|16 bits, range from -32,768 - 32,767|
+|`int`:|32 bits, range from -2,147,483,648 - 2,147,483,647|
+|`long`:|64 bits, range from –9,223,372,036,854,775,808 to 9,223,372,036,854,775,807|
