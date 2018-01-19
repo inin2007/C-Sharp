@@ -17,8 +17,8 @@
 |**Nullable value types**|null|
 
 * Reference types
-| Class types        |       |       |     |      |
-|--------------------|-------|-------|-----|------|
+| Class types        |       |  
+|--------------------|-------|
 |**Ultimate base class of all other types:**|object|
 |**Unicode strings:**|string|
 |**User-defined types of the form**|class C {...}|
