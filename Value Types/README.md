@@ -74,5 +74,12 @@
 |--------------------|-------|
 |`float`:|32 bits, range from 1.5 × 10^-45 - 3.4 x 10^38, 7-digit precision|
 |`double`:|64 bits, range from 5.0 × 10^−324 - 1.7 × 10^308, 15-digit precision|
+
+* Floating point
+
+|  Decimal |       |  
+|--------------------|-------|
+|`decimal`:|128 bits, range is at least –7.9 × 10^-28 - 7.9 × 10^28, with at least 28-digit precision|
+
 ---
 
