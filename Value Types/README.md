@@ -1,5 +1,5 @@
 * Simple Types
 
-|Simple Types                                     |
+|Simple Types        |       |       |     |      |
 |--------------------|-------|-------|-----|------|
 |**Signed integral** | sbyte | short | int | long |
