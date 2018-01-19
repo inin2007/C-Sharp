@@ -1,4 +1,4 @@
 * Simple Types
 
---------------------|-------|-------|-----|-----
-**Signed integral** | sbyte | short | int | long
+|--------------------|-------|-------|-----|------|
+|**Signed integral** | sbyte | short | int | long |
