@@ -17,6 +17,7 @@
 |**Nullable value types**|null|
 
 * Reference types
+
 | Class types        |       |  
 |--------------------|-------|
 |**Ultimate base class of all other types:**|object|
