@@ -51,3 +51,14 @@
 |-|-|
 |`x << y`:|Shift left|
 |`x >> y`:|Shift right|
+
+* Relational and type testing
+
+|||
+|-|-|
+|`x < y`:|Less than|
+|`x > y`:|Greater than|
+|`x <= y`:|Less than or equal|
+|`x >= y`:|Greater than or equal|
+|`x is T`:|Return `true` if `x` is a `T`, `false` otherwise|
+|`x as T`:|Return `x` typed as `T`, or `null` if `x` is not a `T`|
