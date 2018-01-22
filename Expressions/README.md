@@ -69,3 +69,9 @@
 |-|-|
 |`x == y`:|Equal|
 |`x != y`:|Not equal|
+
+* Logical AND
+
+|||
+|-|-|
+|`x & y`:|Integer bitwise AND, boolean logical AND|
