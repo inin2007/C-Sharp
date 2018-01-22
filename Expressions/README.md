@@ -37,3 +37,10 @@
 |`x * y`:|Multiplication|
 |`x / y`:|Division |
 |`x % y`:|Remainder |
+
+* Additive
+
+|||
+|-|-|
+|`x + y`:|Addition, string concatenation, delegate combination|
+|`x – y`:|Subtraction, delegate removal |
