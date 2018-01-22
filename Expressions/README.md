@@ -87,3 +87,22 @@
 |||
 |-|-|
 |`x | y`:|Integer bitwise OR, boolean logical OR|
+
+* Null coalescing
+
+|||
+|-|-|
+|`x ?? y`:|Evaluates to `y` if `x` is null, to `x` otherwise|
+
+* Conditional
+
+|||
+|-|-|
+|`x ? y : z`:|Evaluates `y` if `x` is true, `z` if `x` is `false`|
+
+* Assignment or anonymous function
+
+|||
+|-|-|
+|`x = y`:|Assignment|
+|`x op= y`:|Compound assignment; supported operators are `*=` `/=` `%=` `+=` `-=` `<<=` `>>=` `&=` `^=` `|=`|
