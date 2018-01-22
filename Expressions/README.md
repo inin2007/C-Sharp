@@ -75,3 +75,9 @@
 |||
 |-|-|
 |`x & y`:|Integer bitwise AND, boolean logical AND|
+
+* Logical XOR
+
+|||
+|-|-|
+|`x ^ y`:|Integer bitwise XOR, boolean logical XOR|
