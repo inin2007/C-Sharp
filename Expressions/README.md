@@ -106,3 +106,4 @@
 |-|-|
 |`x = y`:|Assignment|
 |`x op= y`:|Compound assignment; supported operators are `*=` `/=` `%=` `+=` `-=` `<<=` `>>=` `&=` `^=`|
+|`(T x) => y`:|Anonymous function (lambda expression)|
