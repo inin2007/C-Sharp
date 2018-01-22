@@ -105,4 +105,4 @@
 |||
 |-|-|
 |`x = y`:|Assignment|
-|`x op= y`:|Compound assignment; supported operators are `*=` `/=` `%=` `+=` `-=` `<<=` `>>=` `&=` `^=` `|=`|
+|`x op= y`:|Compound assignment; supported operators are `*=` `/=` `%=` `+=` `-=` `<<=` `>>=` `&=` `^=` ``|=`|
