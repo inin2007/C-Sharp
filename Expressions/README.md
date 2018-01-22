@@ -81,3 +81,9 @@
 |||
 |-|-|
 |`x ^ y`:|Integer bitwise XOR, boolean logical XOR|
+
+* Logical OR
+
+|||
+|-|-|
+|`x | y`:|Integer bitwise OR, boolean logical OR|
