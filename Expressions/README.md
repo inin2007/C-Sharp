@@ -44,3 +44,10 @@
 |-|-|
 |`x + y`:|Addition, string concatenation, delegate combination|
 |`x – y`:|Subtraction, delegate removal |
+
+* Shift
+
+|||
+|-|-|
+|`x << y`:|Shift left|
+|`x >> y`:|Shift right|
