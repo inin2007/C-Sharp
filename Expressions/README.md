@@ -62,3 +62,10 @@
 |`x >= y`:|Greater than or equal|
 |`x is T`:|Return `true` if `x` is a `T`, `false` otherwise|
 |`x as T`:|Return `x` typed as `T`, or `null` if `x` is not a `T`|
+
+* Equality
+
+|||
+|-|-|
+|`x == y`:|Equal|
+|`x != y`:|Not equal|
