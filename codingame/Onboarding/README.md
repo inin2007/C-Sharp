@@ -11,7 +11,7 @@ using System.Collections.Generic;
  * <---
  * Hint:To protect the planet, you can implement the pseudo-code provided in the statement, below the player.
  **/
-```
+
 class Player
 {
     static void Main(string[] args)
