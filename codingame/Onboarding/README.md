@@ -3,8 +3,8 @@ using System.Linq;
 using System.IO;
 using System.Text;
 using System.Collections;
-using System.Collections.Generic;```
-
+using System.Collections.Generic;
+```
 /**
  * CodinGame planet is being attacked by slimy insectoid aliens.
  * <---
