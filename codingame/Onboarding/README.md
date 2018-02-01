@@ -5,7 +5,7 @@ using System.IO;
 using System.Text;
 using System.Collections;
 using System.Collections.Generic;
-```
+
 /**
  * CodinGame planet is being attacked by slimy insectoid aliens.
  * <---
@@ -16,9 +16,9 @@ class Player
 {
     static void Main(string[] args)
     {
-```
+
         // game loop
-      `  while (true)`
+        while (true)
         {
             string enemy1 = Console.ReadLine(); // name of enemy 1
             int dist1 = int.Parse(Console.ReadLine()); // distance to enemy 1
@@ -33,4 +33,5 @@ class Player
             Console.WriteLine("name of the enemy");
         }
     }
-}`
+}
+```
