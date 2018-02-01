@@ -1,4 +1,5 @@
-```using System;
+```
+using System;
 using System.Linq;
 using System.IO;
 using System.Text;
@@ -10,11 +11,12 @@ using System.Collections.Generic;
  * <---
  * Hint:To protect the planet, you can implement the pseudo-code provided in the statement, below the player.
  **/
-`class Player`
-`{`
-   ` static void Main(string[] args)`
-  `  {`
-
+```
+class Player
+{
+    static void Main(string[] args)
+    {
+```
         // game loop
       `  while (true)`
         {
