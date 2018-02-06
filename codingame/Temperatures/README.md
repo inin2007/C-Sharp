@@ -1,3 +1,4 @@
+```
 using System;
 using System.Linq;
 using System.IO;
@@ -26,3 +27,4 @@ class Solution
         Console.WriteLine("result");
     }
 }
+```
