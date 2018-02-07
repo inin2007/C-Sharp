@@ -4,7 +4,6 @@ public class Exercise7
     {
         int x = 25;
         int y = 4;
-       // int j = 6;
         int h = x+y;
         int q = x-y;
         int w = x*y;
