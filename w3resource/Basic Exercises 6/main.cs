@@ -8,7 +8,7 @@ public class Exercise6
         int h = x*y*j;
          System.Console.WriteLine(x +"x"+ y +"x"+j+"="+h); 
          //or
-         //System.Console.WriteLine("{x} x {y} x {j} = {h}",x, y, j, h);
+         //System.Console.WriteLine("{0} x {1} x {2} = {3}",x, y, j, h);
   
     }
 }
