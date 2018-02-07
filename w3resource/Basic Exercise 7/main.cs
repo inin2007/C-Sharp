@@ -20,3 +20,17 @@ public class Exercise7
 
 ------------------------------------------------------------------------------------
 
+public class Exercise7
+{
+    public static void Main( )
+    {
+        int x = 25;
+        int y = 4;
+
+           System.Console.WriteLine("{0} x {1} = {2}",x, y, x+y);
+           System.Console.WriteLine("{0} x {1} = {2}",x, y, x-y);
+           System.Console.WriteLine("{0} x {1} = {2}",x, y, x*y);
+           System.Console.WriteLine("{0} x {1} = {2}",x, y, x/y);
+           System.Console.WriteLine("{0} x {1} = {2}",x, y, x%y);
+    }
+}
