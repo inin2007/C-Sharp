@@ -54,7 +54,7 @@ Enter third number - 7
 Expected Output:
 Result of specified numbers 5, 6 and 7, (x+y).z is 77 and x.y + y.z is 72
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise10.cs
 
 11. Write a C# Sharp program that takes an age (for example 20) as input and prints something as "You look older than 20". 
 Test Data:
