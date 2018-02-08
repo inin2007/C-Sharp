@@ -5,7 +5,7 @@ Input the third number to multiply: 6
 Expected Output:
 2 x 3 x 6 = 36
 
-Click me to see the solution
+Click to see the solution
 
 7. Write a C# Sharp program to print on screen the output of adding, subtracting, multiplying and dividing of two numbers which will be entered by the user.
 Test Data:
@@ -18,7 +18,7 @@ Expected Output:
 25 / 4 = 6
 25 mod 4 = 1
 
-Click me to see the solution
+Click to see the solution
 
 8. Write a C# Sharp program that takes a number as input and print its multiplication table. Go to the editor
 Test Data:
