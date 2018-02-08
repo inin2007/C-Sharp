@@ -5,7 +5,7 @@ Input the third number to multiply: 6
 Expected Output:
 2 x 3 x 6 = 36
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/Basic%20Exercise%206/main.cs
 
 7. Write a C# Sharp program to print on screen the output of adding, subtracting, multiplying and dividing of two numbers which will be entered by the user.
 Test Data:
