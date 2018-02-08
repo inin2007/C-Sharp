@@ -43,7 +43,7 @@ Enter the four number: 30
 Expected Output:
 The average of 10 , 15 , 20 , 30 is: 18
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise9.cs
 
 10. Write a C# Sharp program to that takes three numbers(x,y,z) as input and print the output of (x+y).z and x.y + y.z.
 Test Data:
