@@ -31,7 +31,7 @@ Expected Output:
 ....
 5 * 10 = 50
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise8.cs
 
 9. Write a C# Sharp program that takes four numbers as input to calculate and print the average. 
 Test Data:
