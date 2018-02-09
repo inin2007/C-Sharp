@@ -73,7 +73,7 @@ Expected Output:
 25 25 25 25 
 25252525
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise12.cs
 
 13. Write a C# program that takes a number as input and then displays a rectangle of 3 columns wide and 5 rows tall using that digit. 
 Test Data:
