@@ -110,12 +110,13 @@ Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3reso
 Test Data:
 w3resource
 Python
+x
 Sample Output:
 e3resourcw
 nythoP 
 x 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise16.cs
 
 17. Write a C# program to create a new string from a given string (length 1 or more ) with the first character added at the front and back. 
 Sample Output:
