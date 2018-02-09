@@ -104,7 +104,7 @@ wresource
 w3resourc
 3resource
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise15.cs
 
 16. Write a C# program to create a new string from a given string where the first and last characters will change their positions. 
 Test Data:
