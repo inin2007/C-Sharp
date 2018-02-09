@@ -94,7 +94,7 @@ Expected Output:
 Kelvin = 303
 Fahrenheit = 86
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise14.cs
 
 15. Write a C# program remove specified a character from a non-empty string using index of a character. 
 Test Data:
