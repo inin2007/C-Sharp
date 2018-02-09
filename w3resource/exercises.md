@@ -85,7 +85,7 @@ Expected Output:
 5 5 
 555
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise13.cs
 
 14. Write a C# program to convert from celsius degrees to Kelvin and Fahrenheit. 
 Test Data:
