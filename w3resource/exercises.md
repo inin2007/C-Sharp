@@ -134,7 +134,7 @@ Input second integer:
 Check if one is negative and one is positive: 
 True 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise18.cs
 
 19. Write a C# program to compute the sum of two given integers, if two values are equal then return the triple of their sum. 
 
