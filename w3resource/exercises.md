@@ -123,7 +123,7 @@ Sample Output:
 Input a string : The quick brown fox jumps over the lazy dog. 
 TThe quick brown fox jumps over the lazy dog.
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise17.cs
 
 18. Write a C# program to check two given integers and return true if one is negative and one is positive. 
 Sample Output:
