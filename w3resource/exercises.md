@@ -138,7 +138,7 @@ Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3reso
 
 19. Write a C# program to compute the sum of two given integers, if two values are equal then return the triple of their sum. 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise19.cs
 
 20. Write a C# program to get the absolute value of the difference between two given numbers. Return double the absolute value of the difference if the first number is greater than second number.
 
