@@ -142,7 +142,7 @@ Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3reso
 
 20. Write a C# program to get the absolute value of the difference between two given numbers. Return double the absolute value of the difference if the first number is greater than second number.
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise20.cs
 
 21. Write a C# program to check the sum of the two given integers and return true if one of the integer is 20 or if their sum is 20.
 
