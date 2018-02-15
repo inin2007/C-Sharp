@@ -146,7 +146,7 @@ Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3reso
 
 21. Write a C# program to check the sum of the two given integers and return true if one of the integer is 20 or if their sum is 20.
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise21.cs
 
 22. Write a C# program to check if an given integer is within 20 of 100 or 200. 
 Sample Output:
