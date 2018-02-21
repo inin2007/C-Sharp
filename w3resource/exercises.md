@@ -154,7 +154,7 @@ Input an integer:
 25 
 False 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise22.cs
 
 23. Write a C# program to convert a given string into lowercase.
 Sample Output:
