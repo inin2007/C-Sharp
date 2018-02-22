@@ -167,7 +167,7 @@ Test Data: Write a C# Sharp Program to display the following pattern using the a
 Sample Output:
 following
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise24.cs
 
 25. Write a C# program to print the odd numbers from 1 to 99. Prints one number per line. 
 Sample Output:
