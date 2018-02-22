@@ -160,7 +160,7 @@ Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3reso
 Sample Output:
 write a c# sharp program to display the following pattern using the alphabet.
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise23.cs
 
 24. Write a C# program to find the longest word in a string.
 Test Data: Write a C# Sharp Program to display the following pattern using the alphabet.
