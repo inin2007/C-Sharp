@@ -182,7 +182,7 @@ Odd numbers from 1 to 99. Prints one number per line.
 97 
 99 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise25.cs
 
 26. Write a C# program to compute the sum of the first 500 prime numbers. 
 Sample Output:
