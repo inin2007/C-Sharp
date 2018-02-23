@@ -196,7 +196,7 @@ Sample Output:
 Input a number(integer): 12
 Sum of the digits of the said integer: 3 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise27.cs
 
 28. Write a C# program to reverse the words of a sentence. 
 Sample Output:
