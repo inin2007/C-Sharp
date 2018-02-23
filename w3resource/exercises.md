@@ -189,7 +189,7 @@ Sample Output:
 Sum of the first 500 prime numbers:
 3682913 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise26.cs
 
 27. Write a C# program and compute the sum of the digits of an integer. 
 Sample Output:
