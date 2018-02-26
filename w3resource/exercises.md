@@ -209,7 +209,7 @@ Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3reso
 Sample Output:
 Size of a file: 31 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise29.cs
 
 30. Write a C# program to convert a hexadecimal number to decimal number. 
 Sample Output:
