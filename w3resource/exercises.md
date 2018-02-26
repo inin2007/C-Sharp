@@ -203,7 +203,7 @@ Sample Output:
 Original String: Display the pattern like pyramid using the alphabet.
 Reverse String: alphabet. the using pyramid like pattern the Display
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise28.cs
 
 29. Write a C# program to find the size of a specified file in bytes.
 Sample Output:
