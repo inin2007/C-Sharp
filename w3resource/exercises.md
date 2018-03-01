@@ -233,7 +233,7 @@ Sample Output:
 Input a string : The quick brown fox jumps over the lazy dog.
 dog.dog.dog.dog.
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise32.cs
 
 33. Write a C# program to check if a given positive number is a multiple of 3 or a multiple of 7.
 Sample Output:
