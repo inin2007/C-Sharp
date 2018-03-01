@@ -217,7 +217,7 @@ Hexadecimal number: 4B0
 Convert to- 
 Decimal number: 1200 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise30.cs
 
 31. Write a C# program to multiply corresponding elements of two arrays of integers. 
 Sample Output:
