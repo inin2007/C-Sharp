@@ -241,7 +241,7 @@ Input first integer:
 15 
 True
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise33.cs
 
 34. Write a C# program to check if a string starts with a specified word.
 Note: Suppose the sentence starts with "Hello"
