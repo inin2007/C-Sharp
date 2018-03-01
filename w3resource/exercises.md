@@ -251,7 +251,7 @@ Sample Output:
 Input a string : Hello how are you? 
 True
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise34.cs
 
 35. Write a C# program to check two given numbers where one is less than 100 and other is greater than 200. 
 Sample Output:
