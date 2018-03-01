@@ -8,6 +8,5 @@ public class Exercise33
          Console.WriteLine(x);
          Console.WriteLine(y);
          Console.WriteLine(y % 3 == 0 || y % 7 == 0 );
-
     }
 }
