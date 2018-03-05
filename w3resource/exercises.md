@@ -259,7 +259,7 @@ Input a first number(<100): 75
 Input a second number(>100): 250
 True
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise35.cs
 
 36. Write a C# program to check if an integer (from the two given integers) is in the range -10 to 10. 
 Sample Output:
