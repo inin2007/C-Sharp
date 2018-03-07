@@ -267,7 +267,7 @@ Input a first number: -5
 Input a second number: 8 
 True
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise36.cs
 
 37. Write a C# program to check if "HP" appears at second position in a string and returns the string without "HP".
 Test Data: PHP Tutorial
