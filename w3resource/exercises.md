@@ -295,7 +295,7 @@ Sample Output
 Largest of three: 30 
 Lowest of three: 15
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise39.cs
 
 40. Write a C# program to check the nearest value of 20 of two given integers and return 0 if two numbers are same. 
 Test Data:
