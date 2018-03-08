@@ -274,7 +274,7 @@ Test Data: PHP Tutorial
 Sample Output:
 P Tutorial
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise37.cs
 
 38. Write a C# program to get a new string of two characters from a given string. The first and second character of the given string must be "P" and "H", so PHP will be "PH". 
 Test Data: PHP
