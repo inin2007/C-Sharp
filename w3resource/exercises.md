@@ -281,7 +281,7 @@ Test Data: PHP
 Sample Output:
 PH
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise38.cs
 
 39. Write a C# program to find the largest and lowest values from three integer values. 
 Test Data:
