@@ -7,7 +7,7 @@ public class Exercise41
     public static void Main( )
     {
         string x = "w3resource";
-        var y = x.Count(s => s == 'e');
+        var y = x.Count(s => s == 'w');
          Console.WriteLine(y >= 1 && y <= 3);
     }
 }
