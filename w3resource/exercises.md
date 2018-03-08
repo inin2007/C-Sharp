@@ -315,7 +315,7 @@ Test the string contains 'w' character between 1 and 3 times:
 Sample Output
 True 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise41.cs
 
 42. Write a C# program to create a new string where the first 4 characters will be in lower case. If the string is less than 4 characters then make the whole string in upper case. 
 Test Data:
