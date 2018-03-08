@@ -1,1 +1,1 @@
-## C#
+## C# is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines. https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
