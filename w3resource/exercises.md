@@ -306,7 +306,7 @@ Input second integer:
 Sample Output
 15
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise40.cs
 
 41. Write a C# program to check if a given string contains ‘w’ character between 1 and 3 times. 
 Test Data:
