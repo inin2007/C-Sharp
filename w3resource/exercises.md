@@ -323,7 +323,7 @@ Input a string: w3r
 Sample Output
 W3R 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise42.cs
 
 43. Write a C# program to check if a given string starts with "w" and immediately followed by two "ww". 
 Test Data:
