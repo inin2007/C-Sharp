@@ -339,7 +339,7 @@ Input a string : w3resource
 Sample Output
 wrsuc 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise44.cs
 
 45. Write a C# program to count a specified number in a given array of integers. 
 Test Data:
