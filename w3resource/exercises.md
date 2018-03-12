@@ -331,7 +331,7 @@ Input a string : www
 Sample Output
 False 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise43.cs
 
 44. Write a C# program to create a new string of every other character (odd position) from the first position of a given string. 
 Test Data:
