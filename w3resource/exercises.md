@@ -355,7 +355,7 @@ Input an integer: 25
 Sample Output
 False 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise46.cs
 
 47. Write a C# program to compute the sum of all the elements of an array of integers. 
 Test Data:
