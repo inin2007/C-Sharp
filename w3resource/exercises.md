@@ -347,7 +347,7 @@ Input an integer: 5
 Sample Output
 Number of 5 present in the said array: 2 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise45.cs
 
 46. Write a C# program to check if a number appears as either the first or last element of an array of integers and the length is 1 or more. 
 Test Data:
