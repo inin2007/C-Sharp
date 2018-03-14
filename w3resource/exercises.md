@@ -381,7 +381,7 @@ Check if the first element or the last element of the two arrays ( leng th 1 or 
 Sample Output
 True 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise49.cs
 
 50. Write a C# program to rotate an array (length 3) of integers in left direction. 
 Test Data:
