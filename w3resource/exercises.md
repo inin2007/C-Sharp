@@ -363,7 +363,7 @@ Array1: [1, 2, 2, 3, 3, 4, 5, 6, 5, 7, 7, 7, 8, 8, 1]
 Sample Output
 Sum: 69 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise47.cs
 
 48. Write a C# program to check if the first element and the last element are equal of an array of integers and the length is 1 or more. 
 Test Data:
