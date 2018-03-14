@@ -388,7 +388,7 @@ Test Data:
 Array1: [1, 2, 8]
 After rotating array becomes: [2, 8, 1] 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise50.cs
 
 51. Write a C# program to get the larger value between first and last element of an array (length 3) of integers.
 Test Data:
