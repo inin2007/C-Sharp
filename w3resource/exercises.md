@@ -371,7 +371,7 @@ Array1: [1, 2, 2, 3, 3, 4, 5, 6, 5, 7, 7, 7, 8, 8, 1]
 Sample Output
 True 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise48.cs
 
 49. Write a C# program to check if the first element or the last element of the two arrays ( length 1 or more) are equal. 
 Test Data:
