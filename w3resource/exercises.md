@@ -395,7 +395,7 @@ Test Data:
 Array1: [1, 2, 5, 7, 8] 
 Highest value between first and last values of the said array: 8 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise51.cs
 
 52. Write a C# program to create a new array of length containing the middle elements of three arrays (each length 3) of integers.
 Test Data:
