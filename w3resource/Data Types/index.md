@@ -23,7 +23,7 @@ Expected Output :
 66                                                                  
 6 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/Data%20Types/DT2.cs
 
 3. Write a C# Sharp program that takes userid and password as input (type string). After 3 wrong attempts, user will be rejected. 
 
