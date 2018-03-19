@@ -5,6 +5,7 @@ Enter letter: a
 Enter letter: t
 Expected Output :
 t a b
+
 Click me to see the solution
 
 2. Write a C# Sharp program that takes a number and a width also a number, as input and then displays a triangle of that width, using that number. Go to the editor
@@ -19,8 +20,11 @@ Expected Output :
 666                                                        
 66                                                                  
 6 
+
 Click me to see the solution
-3. Write a C# Sharp program that takes userid and password as input (type string). After 3 wrong attempts, user will be rejected. Go to the editor
+
+3. Write a C# Sharp program that takes userid and password as input (type string). After 3 wrong attempts, user will be rejected. 
+
 Click me to see the solution
 
 4. Write a C# Sharp program that takes two numbers as input and perform an operation (+,-,*,x,/) on them and displays the result of that operation. Go to the editor
