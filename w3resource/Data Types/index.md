@@ -10,6 +10,7 @@ t a b
 Click me to see the solution
 
 2. Write a C# Sharp program that takes a number and a width also a number, as input and then displays a triangle of that width, using that number.
+
 Test Data
 Enter a number: 6 
 Enter the desired width: 6 
