@@ -38,7 +38,7 @@ Input second number: 12
 Expected Output :
 20 - 12 = 8
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/Data%20Types/DT4.cs
 
 5. Write a C# Sharp program that takes the radius of a circle as input and calculate the perimeter and area of the circle. 
 
