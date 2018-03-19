@@ -404,7 +404,7 @@ Array2: [0, 3, 8]
 Array3: [-1, 0, 2]
 New array: [2, 3, 0] 
 
-Click to see the solution
+Click to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/exercise52.cs
 
 53. Write a C# program to check if an array contains an odd number.
 Test Data:
