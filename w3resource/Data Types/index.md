@@ -52,7 +52,7 @@ Click me to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3r
 
 6. Write a C# Sharp program to display certain values of the function x = y2 + 2y + 1 (using integer numbers for y , ranging from -5 to +5). 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/Data%20Types/DT6.cs
 
 7. Write a C# Sharp program that takes distance and time as input and displays the speed in kilometers per hour and miles per hour. 
 
