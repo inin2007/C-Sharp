@@ -66,7 +66,7 @@ Your speed in meters/sec is 8.686588
 Your speed in km/h is 31.27172 
 Your speed in miles/h is 19.4355
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/Data%20Types/DT7.cs
 
 8. Write a C# Sharp program that takes the radius of a sphere as input and calculate and display the surface and volume of the sphere. 
 
