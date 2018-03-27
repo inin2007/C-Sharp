@@ -85,7 +85,7 @@ Input a symbol: a
 Expected Output:
 It's a lowercase vowel.
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/Data%20Types/DT9.cs
 
 10. Write a C# Sharp program that takes two numbers as input and returns true or false when both numbers are even or odd. 
 
