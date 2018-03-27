@@ -76,7 +76,7 @@ Expected Output:
 50.26548
 33.51032
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/Data%20Types/DT8.cs
 
 9. Write a C# Sharp program that takes a character as input and check the input (lowercase) is a vowel, a digit, or any other symbol. 
 
