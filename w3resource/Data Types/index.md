@@ -89,7 +89,7 @@ Click me to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3r
 
 10. Write a C# Sharp program that takes two numbers as input and returns true or false when both numbers are even or odd. 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/Data%20Types/DT10.cs
 
 11. Write a C# Sharp program that takes a decimal number as input and displays its equivalent in binary form. 
 
