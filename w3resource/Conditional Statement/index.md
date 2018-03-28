@@ -1,65 +1,84 @@
-1. Write a C# Sharp program to accept two integers and check whether they are equal or not. Go to the editor
+1. Write a C# Sharp program to accept two integers and check whether they are equal or not. 
+
 Test Data :
 Input 1st number: 5 
 Input 2nd number: 5 
 Expected Output : 
 5 and 5 are equal 
+
 Click me to see the solution
 
-2. Write a C# Sharp program to check whether a given number is even or odd. Go to the editor
+2. Write a C# Sharp program to check whether a given number is even or odd. 
+
 Test Data : 15
 Expected Output : 
 15 is an odd integer
+
 Click me to see the solution
 
-3. Write a C# Sharp program to check whether a given number is positive or negative. Go to the editor
+3. Write a C# Sharp program to check whether a given number is positive or negative. 
+
 Test Data : 14 
 Expected Output :
 14 is a positive number
+
 Click me to see the solution
 
-4. Write a C# Sharp program to find whether a given year is a leap year or not. Go to the editor
+4. Write a C# Sharp program to find whether a given year is a leap year or not. 
+
 Test Data : 2016 
 Expected Output :
 2016 is a leap year.
+
 Click me to see the solution
 
-5. Write a C# Sharp program to read the age of a candidate and determine whether it is eligible for casting his/her own vote. Go to the editor
+5. Write a C# Sharp program to read the age of a candidate and determine whether it is eligible for casting his/her own vote. 
+
 Test Data : 21 
 Expected Output:
 Congratulation! You are eligible for casting your vote.
+
 Click me to see the solution
 
-6. Write a C# Sharp program to read the value of an integer m and display the value of n is 1 when m is larger than 0, 0 when m is 0 and -1 when m is less than 0. Go to the editor
+6. Write a C# Sharp program to read the value of an integer m and display the value of n is 1 when m is larger than 0, 0 when m is 0 and -1 when m is less than 0. 
+
 Test Data : -5 
 Expected Output:
 The value of n = -1
+
 Click me to see the solution
 
-7. Write a C# Sharp program to accept the height of a person in centimeter and categorize the person according to their height. Go to the editor
+7. Write a C# Sharp program to accept the height of a person in centimeter and categorize the person according to their height. 
+
 Test Data : 135 
 Expected Output :
 The person is Dwarf.
+
 Click me to see the solution
 
-8. Write a C# Sharp program to find the largest of three numbers. Go to the editor
+8. Write a C# Sharp program to find the largest of three numbers. 
+
 Test Data :
 Input the 1st number :25 
 Input the 2nd number :63 
 Input the 3rd number :10 
 Expected Output :
 The 2nd Number is the greatest among three 
+
 Click me to see the solution
 
-9. Write a C# Sharp program to accept a coordinate point in an XY coordinate system and determine in which quadrant the coordinate point lies. Go to the editor
+9. Write a C# Sharp program to accept a coordinate point in an XY coordinate system and determine in which quadrant the coordinate point lies. 
+
 Test Data :
 Input the value for X coordinate :7 
 Input the value for Y coordinate :9 
 Expected Output :
 The coordinate point (7,9) lies in the First quadrant.
+
 Click me to see the solution
 
-10. Write a C# Sharp program to find the eligibility of admission for a professional course based on the following criteria: Go to the editor
+10. Write a C# Sharp program to find the eligibility of admission for a professional course based on the following criteria: 
+
 Marks in Maths >=65
 Marks in Phy >=55
 Marks in Chem>=50
@@ -73,9 +92,11 @@ Input the marks obtained in Chemistry :51
 Input the marks obtained in Mathematics :72
 Expected Output :
 The candidate is eligible for admission.
+
 Click me to see the solution
 
-11. Write a C# Sharp program to calculate root of Quadratic Equation. Go to the editor
+11. Write a C# Sharp program to calculate root of Quadratic Equation. 
+
 Test Data : 
 Input the value of a : 1 
 Input the value of b : 5 
@@ -83,9 +104,11 @@ Input the value of c : 7
 Expected Output :
 Root are imaginary; 
 No Solution.
+
 Click me to see the solution
 
-12. Write a C# Sharp program to read roll no, name and marks of three subjects and calculate the total, percentage and division. Go to the editor
+12. Write a C# Sharp program to read roll no, name and marks of three subjects and calculate the total, percentage and division. 
+
 Test Data : 
 Input the Roll Number of the student :784 
 Input the Name of the Student :James 
@@ -99,9 +122,11 @@ Marks in Computer Application : 90
 Total Marks = 240 
 Percentage = 80.00 
 Division = First
+
 Click me to see the solution
 
-13. Write a C# Sharp program to read temperature in centigrade and display a suitable message according to temperature state below : Go to the editor
+13. Write a C# Sharp program to read temperature in centigrade and display a suitable message according to temperature state below : 
+
 Temp < 0 then Freezing weather 
 Temp 0-10 then Very Cold weather
 Temp 10-20 then Cold weather
@@ -112,37 +137,46 @@ Test Data :
 42 
 Expected Output :
 Its very hot.
+
 Click me to see the solution
 
-14. Write a C# Sharp program to check whether a triangle is Equilateral, Isosceles or Scalene. Go to the editor
+14. Write a C# Sharp program to check whether a triangle is Equilateral, Isosceles or Scalene. 
+
 Test Data : 
 50 50 60 
 Expected Output :
 This is an isosceles triangle.
+
 Click me to see the solution
 
-15. Write a C# Sharp program to check whether a triangle can be formed by the given value for the angles. Go to the editor
+15. Write a C# Sharp program to check whether a triangle can be formed by the given value for the angles. 
+
 Test Data : 
 40 55 65
 Expected Output :
 The triangle is not valid.
+
 Click me to see the solution
 
-16. Write a C# Sharp program to check whether an alphabet is a vowel or consonant. Go to the editor
+16. Write a C# Sharp program to check whether an alphabet is a vowel or consonant. 
+
 Test Data : 
 k
 Expected Output :
 The alphabet is a consonant.
+
 Click me to see the solution
 
-17. Write a C# Sharp program to calculate profit and loss on a transaction. Go to the editor
+17. Write a C# Sharp program to calculate profit and loss on a transaction. 
+
 Test Data : 
 500 700
 Expected Output :
 You can book your profit amount : 200
+
 Click me to see the solution
 
-18. Write a program in C# Sharp to calculate and print the Electricity bill of a given customer. The customer id., name and unit consumed by the user should be taken from the keyboard and display the total amount to pay to the customer. The charge are as follow : Go to the editor
+18. Write a program in C# Sharp to calculate and print the Electricity bill of a given customer. The customer id., name and unit consumed by the user should be taken from the keyboard and display the total amount to pay to the customer. The charge are as follow : 
 
 Unit	Charge/unit
 upto 199	@1.20
@@ -165,7 +199,7 @@ Net Amount Paid By the Customer : 1840.00
 
 Click me to see the solution
 
-19. Write a program in C# Sharp to accept a grade and declare the equivalent description : Go to the editor
+19. Write a program in C# Sharp to accept a grade and declare the equivalent description : 
 
 Grade	Description
 E	Excellent
@@ -179,35 +213,44 @@ Expected Output :
 You have chosen : Average
 Click me to see the solution
 
-20. Write a program in C# Sharp to read any day number in integer and display day name in the word. Go to the editor
+20. Write a program in C# Sharp to read any day number in integer and display day name in the word. 
+
 Test Data : 
 4
 Expected Output :
 Thursday
+
 Click me to see the solution
 
-21. Write a program in C# Sharp to read any digit, display in the word. Go to the editor
+21. Write a program in C# Sharp to read any digit, display in the word. 
+
 Test Data : 
 4
 Expected Output :
 Four
+
 Click me to see the solution
 
-22. Write a program in C# Sharp to read any Month Number in integer and display Month name in the word. Go to the editor
+22. Write a program in C# Sharp to read any Month Number in integer and display Month name in the word. 
+
 Test Data : 
 4
 Expected Output:
 April
+
 Click me to see the solution
 
-23. Write a program in C# Sharp to read any Month Number in integer and display the number of days for this month. Go to the editor
+23. Write a program in C# Sharp to read any Month Number in integer and display the number of days for this month. 
+
 Test Data : 
 7 
 Expected Output:
 Month have 31 days
+
 Click me to see the solution
 
-24. Write a program in C# Sharp which is a Menu-Driven Program to compute the area of the various geometrical shape. Go to the editor
+24. Write a program in C# Sharp which is a Menu-Driven Program to compute the area of the various geometrical shape. 
+
 Test Data : 
 Input your choice : 1 
 Input radius of the circle : 5
@@ -216,7 +259,7 @@ Expected Output :
 The area is : 78.500000
 
 Click me to see the solution
-25. Write a program in C# Sharp which is a Menu-Driven Program to perform a simple calculation. Go to the editor
+25. Write a program in C# Sharp which is a Menu-Driven Program to perform a simple calculation. 
 
 Test Date and Expected Output 
 Enter the first Integer :10 
@@ -231,4 +274,5 @@ Here are the options :
 
 Input your choice :3 
 The Multiplication of 10 and 2 is: 20
+
 Click me to see the solution
