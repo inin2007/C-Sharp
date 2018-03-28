@@ -14,7 +14,7 @@ Test Data : 15
 Expected Output : 
 15 is an odd integer
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/Conditional%20Statement/CS2.cs
 
 3. Write a C# Sharp program to check whether a given number is positive or negative. 
 
