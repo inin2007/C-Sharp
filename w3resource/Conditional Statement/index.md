@@ -6,7 +6,7 @@ Input 2nd number: 5
 Expected Output : 
 5 and 5 are equal 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/Conditional%20Statement/CS1.cs
 
 2. Write a C# Sharp program to check whether a given number is even or odd. 
 
