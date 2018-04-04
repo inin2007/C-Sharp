@@ -46,7 +46,7 @@ Test Data : -5
 Expected Output:
 The value of n = -1
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/Conditional%20Statement/CS6.cs
 
 7. Write a C# Sharp program to accept the height of a person in centimeter and categorize the person according to their height. 
 
