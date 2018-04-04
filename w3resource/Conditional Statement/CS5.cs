@@ -10,7 +10,7 @@ public class CS5
                   else 
          {
              System.Console.WriteLine("Sorry! You are not eligible for casting your vote.");
-             System.Console.WriteLine("Youwould be able to caste your vote after {0} years.", 18-x);
+             System.Console.WriteLine("You would be able to caste your vote after {0} years.", 18-x);
          }
          }
 }
