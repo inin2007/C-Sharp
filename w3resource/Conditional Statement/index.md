@@ -30,7 +30,7 @@ Test Data : 2016
 Expected Output :
 2016 is a leap year.
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/Conditional%20Statement/CS4.cs
 
 5. Write a C# Sharp program to read the age of a candidate and determine whether it is eligible for casting his/her own vote. 
 
