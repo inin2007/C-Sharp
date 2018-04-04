@@ -22,7 +22,7 @@ Test Data : 14
 Expected Output :
 14 is a positive number
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/Conditional%20Statement/CS3.cs
 
 4. Write a C# Sharp program to find whether a given year is a leap year or not. 
 
