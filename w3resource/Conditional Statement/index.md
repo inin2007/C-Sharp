@@ -54,7 +54,7 @@ Test Data : 135
 Expected Output :
 The person is Dwarf.
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/Conditional%20Statement/CS7.cs
 
 8. Write a C# Sharp program to find the largest of three numbers. 
 
