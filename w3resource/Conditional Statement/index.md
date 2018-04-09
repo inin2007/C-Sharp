@@ -75,7 +75,7 @@ Input the value for Y coordinate :9
 Expected Output :
 The coordinate point (7,9) lies in the First quadrant.
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/Conditional%20Statement/CS9.cs
 
 10. Write a C# Sharp program to find the eligibility of admission for a professional course based on the following criteria: 
 
