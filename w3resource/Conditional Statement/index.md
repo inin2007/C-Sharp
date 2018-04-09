@@ -65,7 +65,7 @@ Input the 3rd number :10
 Expected Output :
 The 2nd Number is the greatest among three 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/C-Sharp/blob/master/w3resource/Conditional%20Statement/CS8.cs
 
 9. Write a C# Sharp program to accept a coordinate point in an XY coordinate system and determine in which quadrant the coordinate point lies. 
 
